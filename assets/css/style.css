@@ -1,0 +1,34 @@
+.button{
+	padding: 6px;
+    border-radius: 10%;
+    margin: 5px;
+    border: 1px solid mediumspringgreen;
+    color: blue;
+    background-color: darkturquoise;
+    font-size: 16px;
+    font-family: 'Bungee', cursive;
+}
+.sub-Btn{
+	padding: 6px;
+    border-radius: 10%;
+    margin: 5px;
+    border: 1px solid mediumspringgreen;
+    color: blue;
+    background-color: darkturquoise;
+    font-size: 16px;
+    font-family: 'Bungee', cursive;
+}
+#animal-Gifs{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 10px;
+	justify-content: space-around;
+}
+body{
+	padding: 10px;
+	font-size: 20px;
+	color: blue;
+}
+form{
+	padding: 10px;
+}
